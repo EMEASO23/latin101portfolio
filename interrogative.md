@@ -4,4 +4,4 @@
 4. Cui dei dona ei miserunt. 
 5. Ob id nomen quid ei datum est. 
 6. Pandora a quo in coniugium Epimetheo data est 
-7. Filia qui erat Pyrrha
+7. Filia cuius erat Pyrrha
