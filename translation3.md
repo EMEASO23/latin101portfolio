@@ -32,8 +32,8 @@ Grammatical Questions
 5. What kind of construction is immolanda est?
     - gerundive
 6. Parse (GCN) ceterae sorōrēs.
-    Gender → feminine
-    Case → nominative
-    Number → plural
+    - Gender → feminine
+    - Case → nominative
+    - Number → plural
 7. What type of construction is ab fulmine?
-    Ablative agent 
+    - Ablative agent 
