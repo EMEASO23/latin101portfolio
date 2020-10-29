@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 1. Hercules Antaeum occidit. hic cogebat hospites secum luctari
   a. What is the verb of the second sentence?
     cogebat
@@ -6,7 +8,7 @@
   c. What tense and voice is cogebat?
     Imperfect active
   d. What gender case and number is hic?
-    Masculine nominative singular 
+    Masculine nominative singular
 2. ars legendī bona est homini.
   a. What case is legendi?
     genitive
@@ -22,7 +24,7 @@
   c. What is the subject of this sentence?
     occasio
   d. Identify the case and number of ei.
-    Dative singular 
+    Dative singular
   e. What case is regni?
     genitive
   f. What noun does regni describe?
@@ -41,6 +43,6 @@
   e. What case is uoluntate?
     ablative
   f. What case is deorum?
-    Genitive 
+    Genitive
   g. What noun does deorum describe?
     uoluntate
