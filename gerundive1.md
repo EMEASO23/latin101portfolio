@@ -8,7 +8,7 @@
 2a. mittit
 2b. Quaerendum
 2c. Thyestem
-2d. Masculine accusative **Number?**
+2d. Masculine accusative singular
 
 3a. Missus est
 3b. Adducendam
