@@ -1,17 +1,19 @@
 
 Latin
 
-*Chaos* prīmus deōrum **erat**. *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**. 
-*Haec* māter Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. 
-*Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. 
+**Section A:  all correct**
+
+*Chaos* prīmus deōrum **erat**. *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**.
+*Haec* māter Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs.
+*Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī.
 Sed *frāter* eōrum Ūranus, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed quōque sapiēns.
 
 English
 
-Chaos was the first of the gods. His daughters, night and earth, were the mothers of all men. 
+Chaos was the first of the gods. His daughters, night and earth, were the mothers of all men. **(What number is "mater"?  The syntax will sort itself out if you take "Nox et Terra" as a *predicate*.)**
 She was the mother of death and destruction. His sons were horrible monsters: Typhon, Python, and Cyclopes.
-Typhon and Python were immense serpents and Cyclopes was a foolish mason. 
-Their brother Uranus, He himself was the first king of the gods. He was strong and great, but was also wise. 
+Typhon and Python were immense serpents and Cyclopes was a foolish mason. **("Cyclopes" is actually from *Cyclops, Cyclopis* so plural here!)**
+Their brother Uranus, He himself was the first king of the gods. **(Or perhaps a little smoother in English "Their brother Uranus was himself the...)** He was strong and great, but was also wise.
 
 Grammatical Questions
 
