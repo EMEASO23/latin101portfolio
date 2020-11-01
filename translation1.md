@@ -28,7 +28,6 @@ Grammatical Questions
     - Nominative, plural, neuter
 5. What declension does the word dracōnēs belong to?
     - Third declension
-   
 6. What case and number is eorum and to whom does it refer?
     - Plural, Nominative → refers to Typhon, Python, and Cyclopes (their)
 7. What declension does the word dracōnēs belong to?
