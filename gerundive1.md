@@ -34,3 +34,4 @@
 7b. Dandum
 7c. Nomen
 7d. Neuter nominative singular
+
