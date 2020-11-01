@@ -10,10 +10,11 @@ Sed *frāter* eōrum Ūranus, prīmus ipse rēx deōrum. *Hic* fortis et magnus 
 
 English
 
-Chaos was the first of the gods. His daughters, night and earth, were the mothers of all men. **(What number is "mater"?  The syntax will sort itself out if you take "Nox et Terra" as a *predicate*.)**
+Chaos was the first of the gods. His daughter, Nox and earth, was the mother of all men. 
 She was the mother of death and destruction. His sons were horrible monsters: Typhon, Python, and Cyclopes.
-Typhon and Python were immense serpents and Cyclopes was a foolish mason. **("Cyclopes" is actually from *Cyclops, Cyclopis* so plural here!)**
-Their brother Uranus, He himself was the first king of the gods. **(Or perhaps a little smoother in English "Their brother Uranus was himself the...)** He was strong and great, but was also wise.
+Typhon and Python were immense serpents and Cyclopes were foolish masons.
+Their brother Uranus was himself the was the first king of the gods.
+He was strong and great, but was also wise.
 
 Grammatical Questions
 
