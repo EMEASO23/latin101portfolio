@@ -4,7 +4,7 @@ Latin Paragraph
 **Almost perfect:  *est* is half of the verb that *nomen* is subject of.**
 
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul *Vulcānus* ex lutō fēminam **faciēbat**.
-*Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**. ob id *nōmen* “Pandōra” ei datum **est**.
+*Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**. ob id *nōmen* “Pandōra” ei **datum est**.
 *Pandōra* ab Iove in coniugium Epimetheō **data est**. *Fīlia* eōrum **erat** Pyrrha, prīma mortālis.
 
 Translated Paragraph:
@@ -15,9 +15,14 @@ Pandora was given into marriage with Epimetheus by Jupiter. Their daughter was P
 
 Gramatical Questions:
 1. What is the grammatical function of Iapetī fīlius prīmus?
-    - Renames the subject Prometheus --> predicate **Yes, renames the subject. *Predicate* is the term for when the term is the other half of a linking clause, like "Prometheus was the son of Iapetus". Here, it's just describing Prometheus.  (We call that *apposition* or say that it is an *appositive*.)**
+    - describes the subject Prometheus --> appositive 
 2. Parse fingēbat and tell me what conjugation it belongs to.
-    - 2nd conjugation **Please parse with person, number, tense, mood and voice.**
+    - 2nd conjugation 
+    - third person
+    - indicative
+    - active
+    - imperfect
+    - singular
 3. What type of adjective is huic, what case is it in, and what word does it agree with?
     - Demonstrative adjective, dative, feminae
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
