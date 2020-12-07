@@ -15,5 +15,5 @@
 
 4a. Past
 4b. Subjunctive
-4c. Imperfect
+4c. pluperfect
 4d. Earlier 
