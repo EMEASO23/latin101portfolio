@@ -1,7 +1,6 @@
-**Needs revisions**
 
 Latin Paragraph
-**Almost perfect:  *est* is half of the verb that *nomen* is subject of.**
+
 
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul *Vulcānus* ex lutō fēminam **faciēbat**.
 *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**. ob id *nōmen* “Pandōra” ei **datum est**.
