@@ -10,7 +10,7 @@ Translated Paragraph:
 
 Long ago Prometheus, first son of Iapetus, fashioned men out of mud. At the same time, Vulcan made the woman out of mud.
 Minerva gave this woman a soul and all the gods sent her gifts. Because of that, the name of her was Pandora.
-Pandora was given into marriage with Epimetheus by Jupiter. Their daughter was Pyrrha, the first mortal.
+Pandora was given into marriage with Epimetheus by Jupiter. Their daughter was Pyrrha, the first mortal. 
 
 Gramatical Questions:
 1. What is the grammatical function of Iapetī fīlius prīmus?
