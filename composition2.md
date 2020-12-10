@@ -1,3 +1,4 @@
+**Satisfactory: full credit**
 
 1. Prometheus ignem a deis cepit.
 2. Prometheus ignem omnibus hominibus dedit.
