@@ -18,7 +18,7 @@ During the ten years in which the Greeks could not capture Troy, Epeus made a wo
 Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered together in it.
 And in the horse they wrote, “The Greek give the gift to Minerva”, and carried to Tenedos.
 When the people of Troy saw it, and they thought that the enemy went away; Priamus ordered that the horse be led to the temple of Minerva.
-And the prophet, Cassandra, told them to hold the horse of the enemy, faith was not given to them and they placed the horse in front of the temple.
+And the prophet, Cassandra, told them to hold the horse of the enemy, trust was not given to her and they placed the horse in front of the temple.
 The Greeks came out and killed the guards of the gate and conquered Troy.
 
 1. What case is decem annōs and why?
@@ -42,8 +42,8 @@ The Greeks came out and killed the guards of the gate and conquered Troy.
 - Present passive infinitive
 7. What case is ei and what role is it playing in the sentence?
 - dative
-- it acts as a winner/loser 
-- ei ("they") are the recievers of the action 
+- indirect object 
+- ei = her, Cassandra was not given trust
 8. What is the function of the que in portārumque?
 - Acts as the word "and" without being repetitive
 - acts as a conjunction
