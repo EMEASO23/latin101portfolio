@@ -9,7 +9,7 @@ Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Sim
 Translated Paragraph:
 
 Long ago Prometheus, first son of Iapetus, fashioned men out of mud. At the same time, Vulcan made the woman out of mud.
-Minerva gave this woman a soul and all the gods sent her gifts. Because of that, the name of her was Pandora.
+Minerva gave this woman a soul and all the gods sent her gifts. Because of that, the name Pandora was given to her.
 Pandora was given into marriage with Epimetheus by Jupiter. Their daughter was Pyrrha, the first mortal. 
 
 Gramatical Questions:
