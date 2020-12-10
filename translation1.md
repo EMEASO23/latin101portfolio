@@ -23,13 +23,13 @@ Grammatical Questions
 2. What type of word is haec ?
     - Demonstrative pronoun (subject)
 3. To whom does illius refer?
-    - Leiti
+    - Letum
 4. What case, number, and gender is monstra?
     - Nominative, plural, neuter
 5. What declension does the word dracōnēs belong to?
     - Third declension
 6. What case and number is eorum and to whom does it refer?
-    - Plural, Nominative → refers to Typhon, Python, and Cyclopes (their)
+    - Plural, genitive → refers to Typhon, Python, and Cyclopes (their)
 7. What declension does the word dracōnēs belong to?
     - Third declension  
 8. What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
