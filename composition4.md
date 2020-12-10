@@ -1,6 +1,6 @@
 Cum Hercules mitteretur a Eurystheo ad Cerberum, canem tricipitem, petendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esse.
 
-Lycus volebat regnum capere Herculis, et familiam eius interficere.
+Lycus volebat regnum Herculis capere, et familiam eius interficere.
 
 Cum Hercules consilium Lyci audīvisset, Hercules celeriter iit et interfecit eum.
 
