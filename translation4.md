@@ -16,7 +16,7 @@ Cum *vātēs*, Cassandra, **diceret** *equum* **habere** hostes, *fidēs* eī **
 
 During the ten years in which the Greeks could not capture Troy, Epeus made a wooden horse of amazing size.
 Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered together in it.
-And in the horse they wrote, “The Greek give the gift of Minerva”, and carried to Tenedos.
+And in the horse they wrote, “The Greek give the gift to Minerva”, and carried to Tenedos.
 When the people of Troy saw it, and they thought that the enemy went away; Priamus ordered that the horse be led to the temple of Minerva.
 And the prophet, Cassandra, told them to hold the horse of the enemy, faith was not given to them and they placed the horse in front of the temple.
 The Greeks came out and killed the guards of the gate and conquered Troy.
@@ -29,7 +29,7 @@ The Greeks came out and killed the guards of the gate and conquered Troy.
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 - This is a Direct quote.
 - Danai = subject 
-- Minervae is in the genitive case and describes donum 
+- Minervae = indirect object, dative
 - donum = direct object
 - dant = verb  
 4. What type of verb is arbitrati sunt?
