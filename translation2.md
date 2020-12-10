@@ -29,7 +29,7 @@ Gramatical Questions:
     - Omnes → adjective
     - Dei → plural nominative subject
     - Dona → accusative direct object
-    - Ei → demonstrative pronoun, nominative
+    - Ei → demonstrative pronoun, dative
     - Miserunt → 3rd person plural active transitive
 5. Parse data est and indicate what conjugation the verb belongs to.
     - Person --> 3rd person
