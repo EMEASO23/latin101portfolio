@@ -14,12 +14,12 @@ Cum *vātēs*, Cassandra, **diceret** *equum* **habere** hostes, *fidēs* eī **
 
 
 
-During the ten years in which the Greeks could not capture Troy, Epeus made a wooden horse of amazing size.
-Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered together in it.
-And in the horse they wrote, “The Greek give the gift to Minerva”, and carried to Tenedos.
-When the people of Troy saw it, and they thought that the enemy went away; Priamus ordered that the horse be led to the temple of Minerva.
-And the prophet, Cassandra, told them to hold the horse of the enemy, trust was not given to her and they placed the horse in front of the temple.
-The Greeks came out and killed the guards of the gate and conquered Troy.
+When the Greeks could not capture Troy for ten years, Epeus made a wooden horse of amazing size.
+Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus were gathered in it.
+And on the horse they wrote, “The Greeks give the gift to Minerva”, and moved the military camps to Tenedos.
+When the people of Troy saw it, and they thought that the enemy had gone away; Priamus ordered that the horse be led to the temple of Minerva.
+When the prophet, Cassandra, said that the horse held of the enemy, they did not trust her and placed the horse in front of the temple.
+The Greeks came out and killed the guards of the gates and conquered Troy.
 
 1. What case is decem annōs and why?
 - Accusative because it is saying throughout a duration of time
