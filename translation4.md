@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Erin Eason
 Latin 101-01
@@ -25,10 +25,10 @@ The Greeks came out and killed the guards of the gates and conquered Troy.
 - Accusative because it is saying throughout a duration of time
 2. Parse possent (PNTMV) and explain its mood.
 - third-person plural imperfect active subjunctive
-- It is the verb of a temporal clause that is expressing a duration of time. Subjunctive with a temporal clause expresses the cirucumstances under which an action happens. Indicative expresses the exact time that something happened. Here Hyginus wanted to express circumstances and thus used the indicative. 
+- It is the verb of a temporal clause that is expressing a duration of time. Subjunctive with a temporal clause expresses the cirucumstances under which an action happens. Indicative expresses the exact time that something happened. Here Hyginus wanted to express circumstances and thus used the indicative.
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 - This is a Direct quote.
-- Danai = subject 
+- Danai = subject
 - Minervae = indirect object, dative
 - donum = direct object
 - dant = verb  
@@ -42,7 +42,7 @@ The Greeks came out and killed the guards of the gates and conquered Troy.
 - Present passive infinitive
 7. What case is ei and what role is it playing in the sentence?
 - dative
-- indirect object 
+- indirect object
 - ei = her, Cassandra was not given trust
 8. What is the function of the que in portārumque?
 - Acts as the word "and" without being repetitive
